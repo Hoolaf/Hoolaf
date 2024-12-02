@@ -1,6 +1,6 @@
 <p align="center">
   <a href="TheDriver.com">
-    <img src="image/1.gif" alt="Banner">
+    <img src="Image/1.gif" alt="Banner">
   </a>
 </p>
 
