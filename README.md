@@ -1,4 +1,4 @@
-Hi there, I'm [Your Name] 👋
+# Hi, I'm Katherine! 👋
 <div class="hero-section">
   <img src="Image/1.gif" alt="Vibrant gradient background with anime-style character" class="hero-image" />
   <h1 class="hero-title">Welcome to My GitHub Profile</h1>
