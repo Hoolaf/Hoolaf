@@ -1,9 +1,9 @@
 # Hi, I'm Hoolaf! 🩷
-<div class="hero-section">
-  <img src="Image/2.gif" alt="Vibrant gradient background with anime-style character" class="hero-image" />
-  <h1 class="hero-title">Welcome to My GitHub Profile</h1>
-  <p class="hero-description">I'm a passionate developer who loves exploring the world of coding and technology.</p>
-</div>
+<p align="center">
+  <a href="https://TheDriver.com">
+    <img src="2.gif" alt="Banner">
+  </a>
+</p>
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
