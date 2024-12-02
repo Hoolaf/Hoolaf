@@ -4,3 +4,6 @@ Hi there, I'm [Your Name] 👋
   <h1 class="hero-title">Welcome to My GitHub Profile</h1>
   <p class="hero-description">I'm a passionate developer who loves exploring the world of coding and technology.</p>
 </div>
+
+## 🛠 Skills
+Javascript, HTML, CSS...
