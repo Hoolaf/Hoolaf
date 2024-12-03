@@ -7,7 +7,7 @@
 
 <h3 align="left">✨ Random Dev Quote::</h3>
 <p align="center">
-  <img width="450" height="220" src="Image/quote.gif" alt="Dev Quote" />
+  <img width="450" height="320" src="Image/quote.gif" alt="Dev Quote" />
 </p>
 <hr>
 
