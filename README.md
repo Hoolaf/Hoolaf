@@ -4,6 +4,7 @@
   </a>
 </p>
 
+
 <h3 align="left">✨ Random Dev Quote::</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
@@ -12,7 +13,9 @@
 
 Like My Work?
 
-<img align="right" height="250" width="375" alt="" src="Image/de.png" />
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
 
@@ -79,4 +82,3 @@ Like My Work?
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
