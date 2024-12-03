@@ -7,10 +7,8 @@
 
 <h3 align="left">✨ Random Dev Quote::</h3>
 <p align="center">
-  <img width="650" height="650" src="Image/quote.gif" alt="Dev Quote" />
+  <img width="" height="" src="Image/quote.gif" alt="Dev Quote" />
 </p>
-<hr>
-
 Like My Work?
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="Image/de.png" alt="Buy Me A Coffee" height="80px" width="237px" ></a>
 
