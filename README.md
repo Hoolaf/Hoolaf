@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8829644-ef3c-491d-9174-675f20555f95)<p align="center">
+<p align="center">
   <a href="https://TheDriver.com">
     <img src="Image/ai2.gif" alt="Banner">
   </a>
